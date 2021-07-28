@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, Eu sou o Matheus</h1>
+<h3 align="center">Sou Desenvolvedor Java Sênior, atualmente trabalho em Brasília</h3>
 
-<!--
-**MatheusmDiniz/MatheusmDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmDiniz&label=Profile%20views&color=0e75b6&style=flat" alt="matheusmDiniz" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho na [Vert](https://www.vert.com.br/), para a Caixa Econômica Federal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Alguns dos meus projetos de teste e podem ser encontrados aqui [https://github.com/MatheusmDiniz?tab=repositories](https://github.com/MatheusmDiniz?tab=repositories)
+
+- 📫 Caso queira entrar em contato comigo pode ser pelo e-mail **matheus_mendesdiniz@hotmail.com**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmDiniz&show_icons=true&locale=en&layout=compact" alt="matheusmDiniz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmDiniz&show_icons=true&locale=en" alt="matheusmDiniz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusmDiniz&" alt="matheusmDiniz" /></p>
